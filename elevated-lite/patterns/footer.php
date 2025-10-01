@@ -128,7 +128,7 @@
 <div class="wp-block-group has-base-background-color has-background" style="padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"textColor":"Background"} -->
-<p class="has-background-color has-text-color"><?php esc_html_e('© Copyright 2023. All Rights Reserved.','elevated-lite'); ?></p>
+<p class="has-background-color has-text-color"><?php esc_html_e('© Copyright 2025. All Rights Reserved.','elevated-lite'); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|Background"}}}},"textColor":"Background"} -->

@@ -1,10 +1,10 @@
 ﻿=== Elevated Lite ===
 
 Contributors: Risingthemes
-Requires at least: 6.1
-Tested up to: 6.6
-Requires PHP: 7.0
-Stable tag: 1.0.4
+Requires at least: 6.7
+Tested up to: 6.8
+Requires PHP: 7.2
+Stable tag: 1.0.5
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 Tags: entertainment, e-commerce, one-column, two-columns, three-columns, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, right-sidebar, custom-background, wide-blocks
@@ -53,7 +53,7 @@ Theme is built using the following resource bundles:
 
 *    License
 
-	 Elevated Lite WordPress Theme, Copyright 2024 Risingthemes
+	 Elevated Lite WordPress Theme, Copyright 2025 Risingthemes
 	 Elevated Lite is distributed under the terms of the GNU GPL
         
 For any help you can mail us at support[at]risingthemes.net
@@ -73,4 +73,7 @@ For any help you can mail us at support[at]risingthemes.net
 *      Resolved mobile navigation issue.
 
 = 1.0.4 =
+*      Resolved few css issue.
+
+= 1.0.5 =
 *      Resolved few css issue.

@@ -12,3 +12,6 @@ i) Resolved mobile navigation issue.
 
 Version 1.0.4
 i) Resolved few css issue.
+
+Version 1.0.5
+i) Resolved few css issue.
